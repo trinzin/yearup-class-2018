@@ -1,0 +1,14 @@
+body {
+  color: white;
+  font-family: sans-serif;
+  background: rebeccapurple;
+}
+
+button {
+  background: tomato;
+  border: none;
+  padding: 10px 20px;
+  letter-spacing: 2px;
+  color: white;
+  font-size: 20px;
+}
